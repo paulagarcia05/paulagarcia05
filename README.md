@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @paulagarcia05
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# TÍTULO 
+_Este texto está en cursiva_
+**Este texto está en negrita**
+~~Este texto está tachado~~
+1. Primer elemento de la lista
+   -sub elemento de la lista
+   -sub elemento de la lista
+2. Segundo elemento de la lista
+   - [ ] Hola
+   - [x] Adiós
 
-<!---
-paulagarcia05/paulagarcia05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://docs.github.com/assets/cb-39745/mw-1440/images/help/writing/image-rendered.webp)
+
+:alien::space_invader::sob::face_with_spiral_eyes:
+>[!NOTE]
+>Nota
+
+>[!IMPORTANT]
+>Importante
+
+>[!WARNING]
+>Warning
+
+_____________________________________
+
